@@ -12,6 +12,4 @@ public class HomePage extends BasePage {
     @FindBy(css = ".font-icon.icon-web-header-account")
     public WebElement humanAvatar;
 
-
-
 }
